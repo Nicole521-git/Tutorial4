@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class SecondTest {
+public class testSubtraction {
     Calc c = new Calc();
     @Test
     public void testSubtraction() {
